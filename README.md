@@ -1,3 +1,8 @@
+# Code Editor
+https://code.thumby.us/
+
+
+GROK:
 To recreate the classic game of Battleship in MicroPython for the Thumby, we need to consider the device's constraints and capabilities. The Thumby is a tiny game console with a 72x40 monochrome OLED display, a Raspberry Pi RP2040 processor, a 4-way D-pad, two action buttons (A and B), and support for MicroPython via the Thumby API. It has 2MB of storage, and games are programmed using the Thumby Code Editor, which includes an emulator for testing. The goal is to create a single-player Battleship game where the player guesses coordinates to sink computer-placed ships, adapted to the Thumby's small screen and input system.
 
 Game Design
